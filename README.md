@@ -33,10 +33,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [D
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/les-enovateurs/mailhog_php_example
+$ git clone https://github.com/les-enovateurs/mailhog-examples.git
 
 # Go into the repository
-$ cd mailhog_php_example
+$ cd mailhog-examples
 
 # Run the app
 $ docker-compose up -d
