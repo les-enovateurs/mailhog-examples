@@ -10,6 +10,10 @@ MailHog - Examples
 <h4 align="center">Try <a href="https://github.com/mailhog/MailHog" target="_blank">MailHog</a> with <a href="https://www.docker.com/" target="_blank">Docker</a> and <a href="https://www.php.net/" target="_blank">PHP</a>.</h4>
 
 <p align="center">
+<a href="https://www.buymeacoffee.com/enovateurs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" height="41px" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#contributing">Contributing</a> •
